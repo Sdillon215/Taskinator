@@ -21,10 +21,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* Added to lesson code */
-main {
-  display: flex;
-}
+
 
 header {
   background: var(--secondary);
